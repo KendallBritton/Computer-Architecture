@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\kenda\OneDrive\Visual Studio Code\ECGR 5181\Assignment 4 (Validation)\Source.cpp(18,2): warning C4091: 'typedef ': ignored on left of 'memoryArray' when no variable is declared
+C:\Users\kenda\OneDrive\Visual Studio Code\ECGR 5181\Assignment 4 (Validation)\Source.cpp(26,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\kenda\OneDrive\Visual Studio Code\ECGR 5181\Assignment 4 (Validation)\Source.cpp(44,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\kenda\OneDrive\Visual Studio Code\ECGR 5181\Assignment 4 (Validation)\Source.cpp(45,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Assignment 4 (Validation).vcxproj -> C:\Users\kenda\OneDrive\Visual Studio Code\ECGR 5181\Assignment 4 (Validation)\Debug\Assignment 4 (Validation).exe
