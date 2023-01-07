@@ -1,0 +1,15 @@
+﻿  Source.cpp
+C:\Users\kenda\OneDrive\Visual Studio Code\ECGR 5181\Assignment 3\Source.cpp(218,57): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\kenda\OneDrive\Visual Studio Code\ECGR 5181\Assignment 3\Source.cpp(252,69): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\kenda\OneDrive\Visual Studio Code\ECGR 5181\Assignment 3\Source.cpp(257,69): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\kenda\OneDrive\Visual Studio Code\ECGR 5181\Assignment 3\Source.cpp(292,69): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\kenda\OneDrive\Visual Studio Code\ECGR 5181\Assignment 3\Source.cpp(297,69): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\kenda\OneDrive\Visual Studio Code\ECGR 5181\Assignment 3\Source.cpp(331,57): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\kenda\OneDrive\Visual Studio Code\ECGR 5181\Assignment 3\Source.cpp(364,57): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\kenda\OneDrive\Visual Studio Code\ECGR 5181\Assignment 3\Source.cpp(370,45): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\kenda\OneDrive\Visual Studio Code\ECGR 5181\Assignment 3\Source.cpp(374,47): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\kenda\OneDrive\Visual Studio Code\ECGR 5181\Assignment 3\Source.cpp(378,47): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\kenda\OneDrive\Visual Studio Code\ECGR 5181\Assignment 3\Source.cpp(416,53): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\kenda\OneDrive\Visual Studio Code\ECGR 5181\Assignment 3\Source.cpp(420,51): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\kenda\OneDrive\Visual Studio Code\ECGR 5181\Assignment 3\Source.cpp(424,51): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Assignment 3.vcxproj -> C:\Users\kenda\OneDrive\Visual Studio Code\ECGR 5181\Assignment 3\Debug\Assignment 3.exe
